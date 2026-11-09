@@ -22,24 +22,28 @@ The project applies **RFM Analysis (Recency, Frequency, Monetary)** and **K-Mean
 - **Python** – Data analysis and machine learning
 - **Polars** – Data manipulation and preprocessing
 - **NumPy** – Numerical computations
+- **Pandas** – Data handling (if used in the notebook)
 - **Matplotlib** – Data visualization
 - **Scikit-learn** – Feature scaling, PCA, and K-Means clustering
 - **Jupyter Notebook** – Interactive analysis
 
 ## Dataset
 
-The project uses the Online Retail II transactional dataset.
+This project uses the first part of the **Online Retail II** dataset from the UCI Machine Learning Repository.
 
-The analyzed data initially contained **525,461 records**. After preprocessing and filtering, the RFM analysis was performed on **4,314 unique customers**.
+- **Source:** [UCI Machine Learning Repository – Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+- **Creator:** Daqing Chen
+- **Time Period Used:** December 1, 2009 – December 9, 2010
+- **Original Records Used:** 525,461
+- **Features:** 8
 
-The dataset contains transactional information such as:
+The dataset contains transactional records from a UK-based online retailer, including invoice details, product information, quantities, prices, customer IDs, and countries.
 
-- Invoice
-- Invoice Date
-- Customer ID
-- Product Description
-- Quantity
-- Price
+After data cleaning and preprocessing, customer-level RFM analysis was performed on **4,314 unique customers**.
+
+**Dataset Citation:**
+
+Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
 
 ## Project Workflow
 

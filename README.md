@@ -22,7 +22,6 @@ The project applies **RFM Analysis (Recency, Frequency, Monetary)** and **K-Mean
 - **Python** – Data analysis and machine learning
 - **Polars** – Data manipulation and preprocessing
 - **NumPy** – Numerical computations
-- **Pandas** – Data handling (if used in the notebook)
 - **Matplotlib** – Data visualization
 - **Scikit-learn** – Feature scaling, PCA, and K-Means clustering
 - **Jupyter Notebook** – Interactive analysis

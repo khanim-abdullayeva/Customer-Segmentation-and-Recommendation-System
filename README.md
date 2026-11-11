@@ -165,7 +165,7 @@ The final K-Means model identified three customer segments:
 **Recommended Strategy:**
 - Encourage repeat purchases.
 - Introduce loyalty incentives.
-- Apply cross-selling and personalized product recommendations.
+
 
 ### Segment 3: High-Value Customers
 

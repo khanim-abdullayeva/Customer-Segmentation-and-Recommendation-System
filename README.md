@@ -10,7 +10,7 @@ The project applies **RFM Analysis (Recency, Frequency, Monetary)** and **K-Mean
 
 - Analyze customer purchasing behavior using transactional data.
 - Perform data cleaning and exploratory data analysis.
-- Calculate Recency, Frequency, and Monetary metrics.
+- Calculate Recency, Frequency, and Monetary metrics..
 - Transform and scale features to prepare them for clustering.
 - Apply K-Means clustering to identify customer segments.
 - Evaluate clustering performance using multiple metrics.
